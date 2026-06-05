@@ -1,2 +1,2 @@
 project:
-Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network
+Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Neural Network
